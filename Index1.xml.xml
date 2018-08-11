@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+<title>PELICULAS</title>
+<thumbnail>http://channel.png</thumbnail>
+<fanart>http://fanart.jpg</fanart>
+<link></link>
+<externallink>aqui va el link</externallink>
+</item>
+
+<item>
+<title>SERIES</title>
+<thumbnail>http://channel.png</thumbnail>
+<fanart>http://fanart.jpg</fanart>
+<link></link>
+<externallink>aqui va el link</externallink>
+</item>
+
+<item>
+<title>TV PREMIUM</title>
+<thumbnail>http://channel.png</thumbnail>
+<fanart>http://fanart.jpg</fanart>
+<link></link>
+<externallink>aqui va el link</externallink>
+</item>
+
+<item>
+<title>INFANTIL</title>
+<thumbnail>http://channel.png</thumbnail>
+<fanart>http://fanart.jpg</fanart>
+<link></link>
+<externallink>aqui va el link</externallink>
+</item>
